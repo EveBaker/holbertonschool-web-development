@@ -1,0 +1,1 @@
+this project we where tasked with makeing a website from scratch. currently we are having to make our html for the project.

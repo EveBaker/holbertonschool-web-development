@@ -14,7 +14,8 @@ General
 
     All your files should end with a new line
     A README.md file, at the root of the folder of the project is mandatory
-    You are not allowed to install, import or use external libraries. This website must be build with only HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
+    You are not allowed to install, import or use external libraries. This website must be build with only         
+    HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
     Your code should be W3C compliant and validate with W3C-Validator
 
 <img src="website.jpg" alt="website">
@@ -82,35 +83,48 @@ Inside, add a block containing:</p>
 </ul>
 
 <br>A block for the author:<br>
-A image
-An heading
-A block for the rating:
-A block of images (one star = one image)
-A text
+<ul>
+<li>A image</li>
+<li>An heading</li>
+</ul>
 
+<br>A block for the rating:<br>
+<ul>
+<li>A block of images (one star = one image)</li>
+<li>A text</li>
+</ul>
 
-5. Membership
+<br><b>Task 5. Membership<br></b>
 An heading
 A block with inside 4 block item - each block defined with:
-An image
-An heading
-A text
-A button
+<ul>
+<li>An image</li>
+<li>An heading</li>
+<li>A text</li>
+<li>A button</li>
+</ul>
 
+<br><b>Task 6. FAQ<br></b>
+<ul>
+<li>A block that contains 2 “row block”</li>
+<li>Each “row block” contains 2 “item block”</li>
+</ul>
 
-6. FAQ
-A block that contains 2 “row block”
-Each “row block” contains 2 “item block”
-Each “item block” is composed of:
-An heading
-A text
+<br>Each “item block” is composed of:<br>
+<ul>
+<li>An heading</li>
+<li>A text</li>
+</ul>
 
-
-7. Footer
-A global block (used later for centering the footer content), inside this block:
-A “row block” with:
-An image
-A block with inside:
-Images with link
-A text
-And… that’s it for the moment - the result should not be shiny, don’t worry, CSS is coming…
+<br><b>Task 7. Footer<br></b>
+<br>A global block (used later for centering the footer content), inside this block:<br>
+<br>A “row block” with:<br>
+<ul>
+<li>An image</li>
+</ul>
+<br>A block with inside:<br>
+<ul>
+<li>Images with link</li>
+<li>A text</li>
+<li>And… that’s it for the moment - the result should not be shiny, don’t worry, CSS is coming…</li>
+</ul>

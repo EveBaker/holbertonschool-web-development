@@ -40,7 +40,7 @@ some values are in float - feel free to round them
 For this task, please write an amazing README.md
 
 
-1. Header
+<br><b>Task 1. Header</br><b>
 Create the HTML skeleton (html, head, body, etc.)
 In the body, add an header tag
 Inside this header:
@@ -50,7 +50,7 @@ Add a block of 3 link elements
 
 
 
-2. Banner
+<br><b>Task 2. Banner</br><b>
 A block with inside:
 An heading tag (don’t forget to use the correct heading value)
 A text element

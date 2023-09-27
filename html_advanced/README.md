@@ -20,8 +20,7 @@ General
 <img src="website.jpg" alt="website">
 <img src="frame.jpg" alt="wire frame">
 
-Tasks
-0. README and objectives!
+<br><b>Task 0. README and objectives!</br><b>
 In this and coming projects, you will implement from scratch a webpage from a designer file.
 
 For this first project, you will focus on the HTML structure only - no CSS, no style - just pure HTML semantic.

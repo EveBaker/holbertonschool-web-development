@@ -57,11 +57,10 @@ For this task, please write an amazing README.md.</p>
 <li>Another heading tag (same, be careful about which one you are using)</li>
 <li>A block containing 4 blocks - each block with inside:</li>
 </ul>
-<ul>
-<li>An image</li>
-<li>An heading tag</li>
-<li>A text</li>
-</ul>
+An image
+An heading tag
+A text
+
 
 
 3. Quote

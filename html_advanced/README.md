@@ -1,5 +1,5 @@
 <b> Learning Objectives: <b>
-General:
+<br> General: </br>
 
     What is HTML
     How to create an HTML page from a wireframe

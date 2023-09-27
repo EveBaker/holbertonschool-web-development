@@ -1,5 +1,5 @@
-<b> Learning Objectives: <b>
-<br> General: </br>
+<b> Learning Objectives:</b>
+<br> General:<br>
 
     What is HTML
     How to create an HTML page from a wireframe
@@ -20,18 +20,18 @@ General
 <img src="website.jpg" alt="website">
 <img src="frame.jpg" alt="wire frame">
 
-<br><b>Task 0. README and objectives!</br><b>
+<br><b>Task 0. README and objectives!<br></b>
 <p>In this and coming projects, you will implement from scratch a webpage from a designer file.
 For this first project, you will focus on the HTML structure only - no CSS, no style - just pure HTML semantic.</p>
 
-<br><b>Important notes with Figma:</br></b>
+<br><b>Important notes with Figma:<br></b>
 
 <p>if your computer doesn’t have missing fonts, you can find them here: source-sans-pro and Spin-Cycle-OT
 some values are in float - feel free to round them
 For this task, please write an amazing README.md.</p>
 
 
-<br><b>Task 1. Header</br><b>
+<br><b>Task 1. Header<br></b>
 <ul>
 <li>Create the HTML skeleton (html, head, body, etc.)</li>
 <li>In the body, add an header tag</li>
@@ -44,42 +44,44 @@ For this task, please write an amazing README.md.</p>
 
 
 
-<br><b>Task 2. Banner</br><b>
-<br>A block with inside:</br>
+<br><b>Task 2. Banner<br></b>
+<br>A block with inside:<br>
 <ul>
 <li>An heading tag (don’t forget to use the correct heading value)</li>
 <li>A text element</li>
 <li>A button tag</li>
 </ul>
 
-<br><b>Another block with inside:</br><b>
+<br><b>Another block with inside:<br></b>
 <ul>
 <li>Another heading tag (same, be careful about which one you are using)</li>
 <li>A block containing 4 blocks - each block with inside:</li>
 </ul>
-An image
-An heading tag
-A text
+An image, An heading tag, A text
 
 
 
-3. Quote
-Create a new section for the quote
-Inside, add a block containing:
-An image
-Another block with inside:
-A quote tag
-An author quote
-A text
+<br><b>Task 3. Quote<br></b>
+<p>Create a new section for the quote
+Inside, add a block containing:</p>
+<ul>
+<li>An image</li>
+<li>Another block with inside:</li>
+<li>A quote tag</li>
+<li>An author quote</li>
+<li>A text</li>
+</ul>
 
+<br><b>Task 4. Videos:<br></b>
+<ul>
+<li>An heading tag</li>
+<li>A block containing the 4 video block - each of them are composed with:</li>
+<li>An image</li>
+<li>An heading</li>
+<li>A text</li>
+</ul>
 
-4. Videos
-An heading tag
-A block containing the 4 video block - each of them are composed with:
-An image
-An heading
-A text
-A block for the author:
+<br>A block for the author:<br>
 A image
 An heading
 A block for the rating:

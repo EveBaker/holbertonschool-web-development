@@ -36,7 +36,7 @@ For this task, please write an amazing README.md.</p>
 <li>Create the HTML skeleton (html, head, body, etc.)</li>
 <li>In the body, add an header tag</li>
 </ul>
-<br>Inside this header:</li>br>
+<br>Inside this header:</li><br>
 </ul>
 <li>Add a link element with an image inside</li>
 <li>Add a block of 3 link elements</li>
@@ -45,17 +45,23 @@ For this task, please write an amazing README.md.</p>
 
 
 <br><b>Task 2. Banner</br><b>
-A block with inside:
-An heading tag (don’t forget to use the correct heading value)
-A text element
-A button tag
-Another block with inside:
-Another heading tag (same, be careful about which one you are using)
-A block containing 4 blocks - each block with inside:
-An image
-An heading tag
-A text
+<br>A block with inside:</br>
+<ul>
+<li>An heading tag (don’t forget to use the correct heading value)</li>
+<li>A text element</li>
+<li>A button tag</li>
+</ul>
 
+<br><b>Another block with inside:</br><b>
+<ul>
+<li>Another heading tag (same, be careful about which one you are using)</li>
+<li>A block containing 4 blocks - each block with inside:</li>
+</ul>
+<ul>
+<li>An image</li>
+<li>An heading tag</li>
+<li>A text</li>
+</ul>
 
 
 3. Quote

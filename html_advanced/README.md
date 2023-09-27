@@ -32,12 +32,15 @@ For this task, please write an amazing README.md.</p>
 
 
 <br><b>Task 1. Header</br><b>
-Create the HTML skeleton (html, head, body, etc.)
-In the body, add an header tag
-Inside this header:
-Add a link element with an image inside
-Add a block of 3 link elements
-
+<ul>
+<li>Create the HTML skeleton (html, head, body, etc.)</li>
+<li>In the body, add an header tag</li>
+</ul>
+<br>Inside this header:</li>br>
+</ul>
+<li>Add a link element with an image inside</li>
+<li>Add a block of 3 link elements</li>
+</ul>
 
 
 

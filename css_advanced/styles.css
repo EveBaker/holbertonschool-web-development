@@ -58,7 +58,7 @@ body {
 }
 
 .imageback {
-    background: url('images/background.png');
+    background: url('Images/background.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -68,13 +68,19 @@ body {
 
 }
 
+.bannersection {
+    background-image: linear-gradient(to top, #071629, transparent);
+    background-size: 100% 100vh;
+    background-position: top;
+} 
+
 
 .bannersectiondiv {
     height: 400px;
     width: 100%;
-    /* justify-content: center;
+    justify-content: center;
     flex-direction: column;
-    align-items: center; */
+    align-items: center; 
 }
 
 .text1 {
@@ -91,6 +97,16 @@ body {
     text-align: center;
 
     color: #FFFFFF;
+}
+
+.text2 {
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    margin: 0 auto 35px auto;
+    list-style-type: none;
+    font-weight: bold;
+    color: white;
 }
 
 .registerbutton {
@@ -111,15 +127,6 @@ body {
     color: white;
 }
 
-.text2 {
-    display: flex;
-    justify-content: space-around;
-    width: 300px;
-    margin: 0 auto 35px auto;
-    list-style-type: none;
-    font-weight: bold;
-    color: white;
-}
 
 /*Authors*/
 
@@ -140,9 +147,6 @@ body {
 
 }
 
-.authordiv {
-
-}
 
 .authorbox {
     display: flex;
@@ -227,6 +231,17 @@ body {
     background-color: white;
 }
 
+.videosection2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.videosection3 {
+    width: 240px;
+    min-height: 340px;
+}
+
+
 .titlevideosection {
     padding: 40px 0px;
     font-weight: 100;
@@ -238,10 +253,6 @@ body {
     color: #C271FF;
 }
 
-.videosectionpoints {
-    display: flex;
-    justify-content: space-evenly;
-}
 
 .videoimage {
     width: 60px;
@@ -249,24 +260,19 @@ body {
     padding: 40px 90px 20px 90px;
 }
 
-.videosectionuniquepoints {
-    width: 240px;
-    min-height: 340px;
-}
-
-.titlevideouniquepoints {
+.titlevideo {
     font-size: 18px;
     margin-left: 20px;
 }
 
-.textvideouniquepoints {
+.textvideo {
     font-family: 'Source Sans Pro', sans-serif;
     color: gray;
     font-size: 14px;
     margin-left: 20px;
 }
 
-.authorvideosectionimage {
+.authorvideosection {
     width: 40px;
     height: 40px;
     border-radius: 25px;
@@ -303,37 +309,37 @@ body {
     font-size: 14px;
 }
 
-.containervideodiagonalimage {
+.containerdiagonalimage {
     width: 260px;
     height: 140px;
-    background-image: url('images/DiagonalSmile.png');
+    background-image: url('Images/DiagonalSmile.png');
     border-radius: 5px 5px 0px 0px;
     background-size: cover;
     background-position: center;
 }
 
-.containervideosadimage {
+.containersadimage {
     width: 260px;
     height: 140px;
-    background-image: url('images/Sad_Smile.png');
+    background-image: url('Images/Sad_Smile.png');
     border-radius: 5px 5px 0px 0px;
     background-size: cover;
     background-position: center;
 }
 
-.containervideonaturalimage {
+.containernaturalimage {
     width: 260px;
     height: 140px;
-    background-image: url('images/Natural_Smile.png');
+    background-image: url('Images/Natural_Smile.png');
     border-radius: 5px 5px 0px 0px;
     background-size: cover;
     background-position: center;
 }
 
-.containervideohappyimage {
+.containerhappyimage {
     width: 260px;
     height: 140px;
-    background-image: url('images/HappySmile.png');
+    background-image: url('Images/HappySmile.png');
     border-radius: 5px 5px 0px 0px;
     background-size: cover;
     background-position: center;

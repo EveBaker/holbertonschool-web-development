@@ -128,3 +128,8 @@ A block with inside 4 block item - each block defined with:
 <li>A text</li>
 <li>And… that’s it for the moment - the result should not be shiny, don’t worry, CSS is coming…</li>
 </ul>
+
+
+
+### CSS, advanced
+------------------------------------

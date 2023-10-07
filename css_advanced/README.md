@@ -18,8 +18,8 @@ General
     HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
     Your code should be W3C compliant and validate with W3C-Validator
 
-<img src="website.jpg" alt="website">
-<img src="frame.jpg" alt="wire frame">
+<img src="Images/website.jpg" alt="website">
+<img src="Images/frame.jpg" alt="wire frame">
 
 <br><b>Task 0. README and objectives!<br></b>
 <p>In this and coming projects, you will implement from scratch a webpage from a designer file.

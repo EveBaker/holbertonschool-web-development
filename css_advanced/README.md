@@ -133,3 +133,80 @@ A block with inside 4 block item - each block defined with:
 
 ### CSS, advanced
 ------------------------------------
+<b> Learning Objectives:</b>
+<br> General:<br>
+
+   
+    What is CSS
+    How to add style to an element
+    What is a class
+    What is a selector
+    How to compute CSS Specificity Value
+    What are Box properties in CSS
+    How does the browser load a webpage
+
+Requirements
+General
+
+    All your files should end with a new line
+    A README.md file, at the root of the folder of the project is mandatory
+    You are not allowed to install, import or use external libraries. This website must be build with only HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
+    Your code should be W3C compliant and validate with W3C-Validator
+
+
+<br><b>Task 0. README and objectives!<br></b>
+<pThis project is following the 0x02. HTML, advanced project - please make sure all tasks of this previous one are fully done.
+
+For this project, you will focus on the CSS and the style of the page.
+
+This designer file will be available on Figma - feel free to create an account to access the final result here:
+
+    Page in Figma
+    fig file
+
+And “Duplicate to your Drafts” to have access to all design details. (if not already done)
+
+Important notes with Figma:
+
+    if your computer doesn’t have missing fonts, you can find them here: source-sans-pro and Spin-Cycle-OT
+    some values are in float - feel free to round them
+
+For this task, please write an amazing README.md and copy the index.html file from 0x02. HTML, advanced</p>
+
+
+<br><b>Task 1.Import the style <br></b>
+<ul>
+<li>Create the file styles.css</li>
+<li>Import styles.css in the head of your index.htmlli>
+</ul>
+
+<br><b>Task 2. Header and Banner <br></b>
+<br>Based on the Figma file, add the correct styling to the header and first section of the page<br>
+<ul>
+<li>All colors values, width, height and images are part of the Figma</li>
+<li>Keep your CSS simple and clean - use as simple as you can CSS selectors</li>
+<li>Be accurate - the final result should be the same as the page at the end!</li>
+</ul>
+
+
+<br><b>Task 3. Quotes<br></b>
+<p>Based on the Figma file, add the correct styling to the quote section</p>
+<ul>
+<li>You can start to see similar or common style, time to start to centralize your style and CSS selectors
+</li>
+</ul>
+
+<br><b>Task 4. Video list<br></b>
+<ul>
+<li>Based on the Figma file, add the correct styling to the videos list section</li>
+</ul>
+
+
+<br><b>Task 5. Membership<br></b>
+Based on the Figma file, add the correct styling to the membership section
+
+<br><b>Task 6. FAQ<br></b>
+<br>Based on the Figma file, add the correct styling to the FAQ section<br>
+
+<br><b>Task 7. Footer<br></b>
+<br>ABased on the Figma file, add the correct styling to the footer<br>

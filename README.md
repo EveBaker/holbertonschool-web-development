@@ -154,7 +154,7 @@ General
     Your code should be W3C compliant and validate with W3C-Validator
 
 
-<br><b>Task 0. README and objectives!<br></b>
+<br><b>Task 0. README and objectives!<b><br>
 <pThis project is following the 0x02. HTML, advanced project - please make sure all tasks of this previous one are fully done.
 
 For this project, you will focus on the CSS and the style of the page.
